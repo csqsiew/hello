@@ -15,3 +15,7 @@ From this website: https://pixabay.com/en/easter-chicks-baby-beautiful-sweet-349
 ## A new section
 
 I just wrote *this* in RStudio!  
+
+## Another new section created on GitHub
+
+I will need to **pull** this! 
