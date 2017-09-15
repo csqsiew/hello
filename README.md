@@ -11,3 +11,7 @@ This is a picture of a cute chick:
 ![chick](/chick.jpg)
 
 From this website: https://pixabay.com/en/easter-chicks-baby-beautiful-sweet-349026/ 
+
+## A new section
+
+I just wrote *this* in RStudio!  
